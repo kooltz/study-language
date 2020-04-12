@@ -3,7 +3,7 @@
 ## Typescript Quick Start
 
 - [x] CH2
-- [ ] CH3
+- [x] CH3
 
 
 
