@@ -17,11 +17,6 @@
     "url": "https://github.com/kooltz/typescript-study/issues"
   },
   "homepage": "https://github.com/kooltz/typescript-study#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "traceur": "0.0.111"
-  },
-  "devDependencies": {
-    "systemjs": "^6.3.1"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
