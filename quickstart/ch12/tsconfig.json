@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "lib": ["ES5", "DOM", "ES2015.Promise"]
+    },
+    "exclude": [
+        "node_modules",
+        ".vscode"
+    ]
+}
